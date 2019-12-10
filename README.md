@@ -1,4 +1,4 @@
-# Application for shorting links (IN PROGRESS)
+# Application for shorting links
 
 ## 
 * [General info](#general-info)
